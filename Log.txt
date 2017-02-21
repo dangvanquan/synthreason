@@ -1,0 +1,4 @@
+Initiating Lexeme Processor:
+
+describe aware?
+->done ->said ->repeated ->inside 

@@ -1,0 +1,18 @@
+blackboard
+book
+bookcase
+bulletin
+calendar
+chair
+chalk
+clock
+computer
+desk
+dictionary
+eraser
+map
+notebook
+pen
+pencil
+textbook
+white board
